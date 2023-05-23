@@ -549,14 +549,6 @@ for var in df_repeat_strip_anova.iloc[:,4]:
     else:
         print('Accept Null, meaning...no difference in the average strip repeat CVs amongst different levels of CB%')
 
-
-# In[187]:
-
-
-#Dunnets: comparing against a control
-    #control the family wise error & increasing the statistical power with a reduction in the number of comparisons
-
-
 # In[189]:
 
 
